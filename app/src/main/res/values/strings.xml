@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Urok34</string>
+    <string name="start_b">Start B</string>
+    <string name="a">A</string>
+    <string name="start_c">Start C</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="start_d">Start D</string>
+    <string name="d">D</string>
+    <string name="start_a">start A</string>
+</resources>
